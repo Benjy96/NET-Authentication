@@ -1,4 +1,4 @@
 *.pdb
 *.dll
 .DS_Store
-/obj
+obj
