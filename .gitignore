@@ -1,2 +1,3 @@
 *.pdb
 *.dll
+.DS_Store
